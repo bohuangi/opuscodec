@@ -27,7 +27,8 @@ and this to your app's _build.gradle_:
 
 ```gradle
 dependencies {
-    compile 'com.github.martoreto:opuscodec:v1.2.1.2'
+    //compile 'com.github.martoreto:opuscodec:v1.2.1.2'
+    implementation 'com.github.bohuangi:opuscodec:dev1.0'
 }
 ```
 
